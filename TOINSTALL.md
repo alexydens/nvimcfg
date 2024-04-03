@@ -1,4 +1,11 @@
 # Packages to Install
+## Other
+- tree
+- neofetch
+- cmatrix
+- cowsay
+- fzf
+- ripgrep
 ## C libraries:
 - opengl
 - vulkan
@@ -39,6 +46,7 @@
 - qemu-system-i386
 ## Nasm
 - nasm
+- mtools
 - asm_lsp
 ## Neovim
 - neovim
